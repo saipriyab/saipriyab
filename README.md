@@ -3,9 +3,9 @@
 ---
 An astute learmer working as a Software Developer (Technology Consultant) at Deloitte. Experience with the below technologies.
 
-- 🔭 Currently working on Java , Spring Boot, AWS
+- 🔭 Currently working on **Java , Spring Boot, AWS**
 
-- 🌱 Exploring React which is a frontend technology
+- 🌱 Exploring **React** which is a frontend technology
 
 -  👀 I’m always keen to learn new tech stack
 
@@ -22,7 +22,7 @@ An astute learmer working as a Software Developer (Technology Consultant) at Del
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 
 ---
 ### &#x1f4c8; Checkout My GitHub Stats 

@@ -9,7 +9,7 @@ An astute learmer working as a Software Developer (Technology Consultant) at Del
 
 -  👀 I’m always keen to learn new tech stack
 
-- 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/saipriyadarshini/) .If you have a challenge for me, or an opportunity feel free to contact me!
+- 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/saipriyadarshini/) .If you have a challenge for me to explore feel free to contact me!
 
 - 💬 Ask me about **Java, Spring Boot, AWS , ideas for problem solving , datastructures & algorithms**
 ---

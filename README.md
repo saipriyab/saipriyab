@@ -9,7 +9,7 @@ An astute learmer working as a Software Developer. Experience with the technolog
 
 -  👀 I’m always interested to learn new tech stack
 
-- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/hariprasath-r/)
+- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/saipriyadarshini/)
 
 - 💬 Ask me about **Java, Spring Boot, AWS , ideas for problem solving , datastructures & algorithms**
 

@@ -23,6 +23,6 @@ An astute learmer working as a Software Developer (Technology Consultant) at Del
 ---
 ### &#x1f4c8; Checkout My GitHub Stats 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saipriyab&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saipriyab&hide=html,css&theme=radical)](https://github.com/saipriyab/github-readme-stats) -->
 
-[![Saipriyadarshini Bandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saipriyab&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Saipriyadarshini Bandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saipriyab&theme=radical)](https://github.com/saipriyab/github-readme-stats)

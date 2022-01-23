@@ -5,7 +5,9 @@ An astute learmer working as a Software Developer. Experience with the technolog
 
 - 🔭 Currently working on Java , Spring Boot, AWS
 
-- 🌱 Exploring React which is a frontend technology.Always interested to learn new tech
+- 🌱 Exploring React which is a frontend technology
+
+-  👀 I’m always interested to learn new tech stack
 
 - 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/hariprasath-r/)
 

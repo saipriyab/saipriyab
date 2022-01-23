@@ -7,7 +7,7 @@ An astute learmer working as a Software Developer. Experience with the technolog
 
 - 🌱 Exploring React which is a frontend technology
 
--  👀 I’m always interested to learn new tech stack
+-  👀 I’m always keen to learn new tech stack
 
 - 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/saipriyadarshini/)
 

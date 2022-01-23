@@ -3,7 +3,7 @@
 ---
 An astute learmer working as a Software Developer (Technology Consultant) at Deloitte. Experience with the below technologies.
 
-- 🔭 Currently working on **Java , Spring Boot, AWS**
+- 🔭 Currently working on **Java , Spring Boot , Microservices , AWS**
 
 - 🌱 Exploring **React** which is a frontend technology
 

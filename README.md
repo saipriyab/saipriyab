@@ -11,7 +11,7 @@ An astute learmer working as a Software Developer (Technology Consultant) at Del
 
 - 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/saipriyadarshini/) .If you have any challenge for me to explore feel free to contact me!
 
-- 💬 Ask me about **Java, Spring Boot, AWS , ideas for problem solving , datastructures & algorithms**
+- 💬 Ask me about **Java, Spring Boot, AWS ,datastructures & algorithms**
 ---
 
 🧰 Technologies & Tools

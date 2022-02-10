@@ -9,8 +9,6 @@ An astute learner working as a Software Developer (Technology Consultant) at Del
 
 -  👀 I’m always keen to learn new tech stack
 
-- 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/saipriyadarshini/) .If you have any challenge for me to explore feel free to contact me!
-
 - 💬 Ask me about **Java, Spring Boot, AWS ,datastructures & algorithms**
 ---
 

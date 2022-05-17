@@ -3,13 +3,13 @@
 ---
 An astute learner working as a Software Developer (Technology Consultant) at Deloitte. Experience with the below technologies.
 
-- 🔭 Currently working on **Java , Spring Boot , Microservices , AWS**
+- 🔭 Currently working on **Java , Spring Boot , Microservices , AWS , PCF ,databases, Docker(Beginner level)**
 
 - 🌱 Exploring **React** which is a frontend technology
 
 -  👀 I’m always keen to learn new tech stack
 
-- 💬 Ask me about **Java, Spring Boot, AWS ,datastructures & algorithms**
+- 💬 Ask me about **Java, Spring Boot, AWS ,datastructures & algorithms, RDBMS like Microsoft SQLServer,MYSQL,Oracle and  NOSQL like Dynanamo DB,Amazon Timestream**
 ---
 
 🧰 Technologies & Tools

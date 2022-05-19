@@ -9,7 +9,7 @@ An astute learner working as a Software Developer (Technology Consultant) at Del
 
 -  👀 I’m always keen to learn new tech stack
 
-- 💬 Ask me about **Java, Spring Boot, AWS ,datastructures & algorithms, RDBMS like Microsoft SQLServer,MYSQL,Oracle and  NOSQL like Dynanamo DB,Amazon Timestream**
+- 💬 Ask me about **Java, Spring Boot, AWS ,datastructures & algorithms, RDBMS like Microsoft SQLServer,MYSQL,Oracle and  NOSQL like Dynamo DB,Amazon Timestream**
 ---
 
 🧰 Technologies & Tools

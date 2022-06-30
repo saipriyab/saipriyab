@@ -28,6 +28,8 @@ An astute learner working as a Software Developer. Experience with the below tec
 
 ![](https://komarev.com/ghpvc/?username=saipriyab)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saipriyab)](https://git.io/streak-stats)
+
 ### &#x1f4c8; Checkout My GitHub Stats 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saipriyab&hide=html,css&theme=radical)](https://github.com/saipriyab/github-readme-stats) -->

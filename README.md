@@ -23,6 +23,9 @@ An astute learner working as a Software Developer. Experience with the below tec
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 
 ---
+
+![snake gif](https://github.com/saipriyab/saipriyab/blob/output/github-contribution-grid-snake.gif)
+
 ### &#x1f4c8; Checkout My GitHub Stats 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saipriyab&hide=html,css&theme=radical)](https://github.com/saipriyab/github-readme-stats) -->

@@ -26,6 +26,8 @@ An astute learner working as a Software Developer. Experience with the below tec
 
 ![snake gif](https://github.com/saipriyab/saipriyab/blob/output/github-contribution-grid-snake.gif)
 
+![](https://komarev.com/ghpvc/?username=saipriyab)
+
 ### &#x1f4c8; Checkout My GitHub Stats 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saipriyab&hide=html,css&theme=radical)](https://github.com/saipriyab/github-readme-stats) -->

@@ -1,7 +1,7 @@
 ### Hello!, I am Saipriyadarshini Bandi!
 
 ---
-An astute learner currently working as a Member of Technical Staff III at VMware. Experience with the below technologies.
+An astute learner currently having experience with the below technologies.
 
 - 🔭 Currently working on **Java , Spring Boot , Microservices , AWS , PCF ,databases, Docker(Beginner level)**
 
